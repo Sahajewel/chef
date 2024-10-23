@@ -1,0 +1,105 @@
+[
+    {
+      "recipe_image": "https://www.state.gov/wp-content/uploads/2019/04/Japan-2107x1406.jpg",
+      "recipe_id": 101,
+      "recipe_name": "Spaghetti Carbonara",
+      "short_description": "Classic Italian pasta with creamy sauce.",
+      "ingredients": [
+        "Spaghetti",
+        "Eggs",
+        "Parmesan cheese",
+        "Pancetta",
+        "Garlic",
+        "Olive oil",
+        "Black pepper"
+      ],
+      "preparing_time": 20,
+      "calories": 450
+    },
+    {
+      "recipe_image": "https://www.state.gov/wp-content/uploads/2019/04/Japan-2107x1406.jpg",
+      "recipe_id": 102,
+      "recipe_name": "Chicken Caesar Salad",
+      "short_description": "Fresh salad with grilled chicken and Caesar dressing.",
+      "ingredients": [
+        "Romaine lettuce",
+        "Grilled chicken breast",
+        "Caesar dressing",
+        "Croutons",
+        "Parmesan cheese",
+        "Lemon juice",
+        "Garlic"
+      ],
+      "preparing_time": 15,
+      "calories": 320
+    },
+    {
+      "recipe_image": "https://www.state.gov/wp-content/uploads/2019/04/Japan-2107x1406.jpg",
+      "recipe_id": 103,
+      "recipe_name": "Beef Stir-fry",
+      "short_description": "Quick and easy stir-fried beef with vegetables.",
+      "ingredients": [
+        "Beef strips",
+        "Soy sauce",
+        "Bell peppers",
+        "Onions",
+        "Garlic",
+        "Ginger",
+        "Sesame oil"
+      ],
+      "preparing_time": 25,
+      "calories": 400
+    },
+    {
+      "recipe_image": "https://www.state.gov/wp-content/uploads/2019/04/Japan-2107x1406.jpg",
+      "recipe_id": 104,
+      "recipe_name": "Vegetable Curry",
+      "short_description": "Spicy and flavorful vegetable curry.",
+      "ingredients": [
+        "Potatoes",
+        "Carrots",
+        "Onions",
+        "Coconut milk",
+        "Curry powder",
+        "Garlic",
+        "Ginger"
+      ],
+      "preparing_time": 30,
+      "calories": 350
+    },
+    {
+      "recipe_image": "https://www.state.gov/wp-content/uploads/2019/04/Japan-2107x1406.jpg",
+      "recipe_id": 105,
+      "recipe_name": "Salmon Teriyaki",
+      "short_description": "Delicious salmon with sweet teriyaki glaze.",
+      "ingredients": [
+        "Salmon fillets",
+        "Soy sauce",
+        "Mirin",
+        "Sugar",
+        "Ginger",
+        "Garlic",
+        "Sesame seeds"
+      ],
+      "preparing_time": 20,
+      "calories": 500
+    },
+    {
+      "recipe_image": "https://www.state.gov/wp-content/uploads/2019/04/Japan-2107x1406.jpg",
+      "recipe_id": 106,
+      "recipe_name": "Chocolate Chip Cookies",
+      "short_description": "Soft and chewy chocolate chip cookies.",
+      "ingredients": [
+        "Flour",
+        "Butter",
+        "Sugar",
+        "Brown sugar",
+        "Eggs",
+        "Chocolate chips",
+        "Vanilla extract"
+      ],
+      "preparing_time": 25,
+      "calories": 300
+    }
+  ]
+  
